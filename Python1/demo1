@@ -1,0 +1,5 @@
+print("hello world")
+
+print("python" == "Python")
+
+print("python" and "python work")
